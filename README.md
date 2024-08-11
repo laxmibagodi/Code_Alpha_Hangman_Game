@@ -8,7 +8,8 @@ This is the <strong><em>Task 1 - Hangman Game</em></strong> assigned by<big><str
 
 <b>Features</b>
 
-<em>- total lives the user gets is 6
+<em>
+- total lives the user gets is 6
 - Randomly selects a word from a predefined list
 - Allows the player to guess letters
 - Displays the correct and incorrect guesses
